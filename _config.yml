@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://laoguo1986.github.com
-author:  老郭
+url: http://yihui.name/cn
+author: 谢益辉
 pygments: true
-paginate: 16
+

@@ -2,13 +2,3903 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://laoguo1986.github.com/2013/03/hello-world/</loc>
+    <loc>http://yihui.name/cn/2012/09/equal-and-arrow/</loc>
     
-    <lastmod>2013-03-11T00:00:00+08:00</lastmod>
+    <lastmod>2012-09-18T00:00:00+08:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/08/quo-vadis/</loc>
+    
+    <lastmod>2012-08-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/06/quick-notes/</loc>
+    
+    <lastmod>2012-06-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/04/break-points-in-regression/</loc>
+    
+    <lastmod>2012-04-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/04/reference-and-footnote/</loc>
+    
+    <lastmod>2012-04-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/04/spring-tour/</loc>
+    
+    <lastmod>2012-04-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/03/as-years-go-by/</loc>
+    
+    <lastmod>2012-03-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/02/many-things-to-nothing/</loc>
+    
+    <lastmod>2012-02-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2012/02/hello-jekyll/</loc>
+    
+    <lastmod>2012-02-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/11/html5-slides/</loc>
+    
+    <lastmod>2011-11-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/10/back-into-the-dust/</loc>
+    
+    <lastmod>2011-10-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/10/rascal-with-knowledge/</loc>
+    
+    <lastmod>2011-10-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/09/ny-strata-and-nj-att/</loc>
+    
+    <lastmod>2011-09-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/09/new-york/</loc>
+    
+    <lastmod>2011-09-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/09/shake-up-your-story/</loc>
+    
+    <lastmod>2011-09-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/09/cranvas-package/</loc>
+    
+    <lastmod>2011-09-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/08/proud-debugging/</loc>
+    
+    <lastmod>2011-08-21T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/08/end-of-summer-vacation/</loc>
+    
+    <lastmod>2011-08-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/07/miami-beach/</loc>
+    
+    <lastmod>2011-07-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/07/why-cannot-we-calm-down/</loc>
+    
+    <lastmod>2011-07-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/07/subtle-mind-to-great-waves/</loc>
+    
+    <lastmod>2011-07-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/07/exams-done/</loc>
+    
+    <lastmod>2011-07-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/06/spaces-in-latex-path-names/</loc>
+    
+    <lastmod>2011-06-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/06/study-furiously/</loc>
+    
+    <lastmod>2011-06-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/05/write-chinese-in-lyx/</loc>
+    
+    <lastmod>2011-05-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/05/4th-chinar-is-done/</loc>
+    
+    <lastmod>2011-05-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/05/4th-chinar-bioinformatics/</loc>
+    
+    <lastmod>2011-05-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/05/lyx-2-0-released/</loc>
+    
+    <lastmod>2011-05-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/05/i-hate-exams/</loc>
+    
+    <lastmod>2011-05-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/05/an-infected-hotmail-account/</loc>
+    
+    <lastmod>2011-05-01T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/04/formatr-update-to-0-2-2/</loc>
+    
+    <lastmod>2011-04-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/04/the-4th-chinar/</loc>
+    
+    <lastmod>2011-04-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/04/r-updated-to-2-13-0/</loc>
+    
+    <lastmod>2011-04-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/04/tuftes-book-style/</loc>
+    
+    <lastmod>2011-04-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/latex-float-no-longer-sucks/</loc>
+    
+    <lastmod>2011-03-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/floating-environment/</loc>
+    
+    <lastmod>2011-03-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/hacking-econometrics/</loc>
+    
+    <lastmod>2011-03-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/msg-manuscript-almost-done/</loc>
+    
+    <lastmod>2011-03-21T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/no-flour-rolls-in-the-world/</loc>
+    
+    <lastmod>2011-03-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/let-time-be-a-friend/</loc>
+    
+    <lastmod>2011-03-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/comments-moderation-in-wordpress/</loc>
+    
+    <lastmod>2011-03-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/rstudio/</loc>
+    
+    <lastmod>2011-03-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/use-appropriate-tools/</loc>
+    
+    <lastmod>2011-03-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/lyx-2-0-rc1/</loc>
+    
+    <lastmod>2011-03-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/03/yang-zhou-slow/</loc>
+    
+    <lastmod>2011-03-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/looking-for-data/</loc>
+    
+    <lastmod>2011-02-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/update-on-msg/</loc>
+    
+    <lastmod>2011-02-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/liars-and-statistics/</loc>
+    
+    <lastmod>2011-02-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/chinese-input-methods-under-linux/</loc>
+    
+    <lastmod>2011-02-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/papers-and-books/</loc>
+    
+    <lastmod>2011-02-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/haiku-for-ames/</loc>
+    
+    <lastmod>2011-02-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/lyx-2-0-and-sweave/</loc>
+    
+    <lastmod>2011-02-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/editors-one-more-time/</loc>
+    
+    <lastmod>2011-02-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/papers-and-editors/</loc>
+    
+    <lastmod>2011-02-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/02/fighting-in-the-rabbit-year/</loc>
+    
+    <lastmod>2011-02-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/01/the-state-of-the-union/</loc>
+    
+    <lastmod>2011-01-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/01/self-portrait/</loc>
+    
+    <lastmod>2011-01-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/01/use-chinese-with-formatr/</loc>
+    
+    <lastmod>2011-01-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/01/receive-donations-for-the-first-time/</loc>
+    
+    <lastmod>2011-01-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2011/01/ask-google/</loc>
+    
+    <lastmod>2011-01-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/animation-v2-0-0-freezing/</loc>
+    
+    <lastmod>2010-12-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/animation-v1-2-0-milestone/</loc>
+    
+    <lastmod>2010-12-29T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/animation-update-1-1-5/</loc>
+    
+    <lastmod>2010-12-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/solutions-in-the-origin/</loc>
+    
+    <lastmod>2010-12-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/fighting-like-a-pig/</loc>
+    
+    <lastmod>2010-12-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/unifying-bayesians-and-frequentists/</loc>
+    
+    <lastmod>2010-12-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/study-and-work-at-the-same-time/</loc>
+    
+    <lastmod>2010-12-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/wisdom-of-zhou-libo/</loc>
+    
+    <lastmod>2010-12-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/study-after-the-exams/</loc>
+    
+    <lastmod>2010-12-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/software-to-make-slides/</loc>
+    
+    <lastmod>2010-12-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/notes-on-roxygen-and-software-documentation/</loc>
+    
+    <lastmod>2010-12-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/lyx-sweave-misc-notes/</loc>
+    
+    <lastmod>2010-12-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/12/rd2roxygen-to-convenient-r-documentation/</loc>
+    
+    <lastmod>2010-12-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/11/judge-a-website-by-its-appearance/</loc>
+    
+    <lastmod>2010-11-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/11/a-difficult-decision/</loc>
+    
+    <lastmod>2010-11-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/11/floating-cloud-in-command-line/</loc>
+    
+    <lastmod>2010-11-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/360-against-tencent/</loc>
+    
+    <lastmod>2010-10-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/talents-needed-in-ruc-stat/</loc>
+    
+    <lastmod>2010-10-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/comments-on-data-mining-and-machine-learning/</loc>
+    
+    <lastmod>2010-10-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/sleepy-fall/</loc>
+    
+    <lastmod>2010-10-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/independent-and-wasteful-usa/</loc>
+    
+    <lastmod>2010-10-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/record-all-plot-changes/</loc>
+    
+    <lastmod>2010-10-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/yixuan-calligraphy-sqrt-econ-math/</loc>
+    
+    <lastmod>2010-10-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/a-comment-on-me/</loc>
+    
+    <lastmod>2010-10-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/10/i-dont-read-these-documents/</loc>
+    
+    <lastmod>2010-10-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/md5-code-for-my-qq-number/</loc>
+    
+    <lastmod>2010-09-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/please-treasure-free-lunch/</loc>
+    
+    <lastmod>2010-09-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/awesome-ffmpeg/</loc>
+    
+    <lastmod>2010-09-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/r-2-12-0-releases-on-october-15/</loc>
+    
+    <lastmod>2010-09-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/what-does-nnd-mean/</loc>
+    
+    <lastmod>2010-09-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/msg-graphics-gallery-finished/</loc>
+    
+    <lastmod>2010-09-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/cold-joke-on-163-mailbox/</loc>
+    
+    <lastmod>2010-09-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/09/brackets-and-chinese/</loc>
+    
+    <lastmod>2010-09-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/08/memories-of-user-2010-at-nist/</loc>
+    
+    <lastmod>2010-08-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/08/sas-against-wpl-and-my-thoughts-on-open-source/</loc>
+    
+    <lastmod>2010-08-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/08/two-jokes/</loc>
+    
+    <lastmod>2010-08-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/08/modern-stat-graphics-manuscript/</loc>
+    
+    <lastmod>2010-08-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/08/show-caption-numbers-in-beamer/</loc>
+    
+    <lastmod>2010-08-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/08/fisher-in-the-ada-hayden-lake/</loc>
+    
+    <lastmod>2010-08-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/08/art-of-points-in-r/</loc>
+    
+    <lastmod>2010-08-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/07/master-thesis-graphics-and-simulation-in-stat-models/</loc>
+    
+    <lastmod>2010-07-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/07/3rd-chinese-r-conference-beijing/</loc>
+    
+    <lastmod>2010-07-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/07/shitizen-university-of-china-thesis/</loc>
+    
+    <lastmod>2010-07-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/07/married/</loc>
+    
+    <lastmod>2010-07-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/05/chinar-tutorial-and-sas-experts-wanted/</loc>
+    
+    <lastmod>2010-05-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/05/asymptotia-mcnemar-test-statistics/</loc>
+    
+    <lastmod>2010-05-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/05/keep-on-eating/</loc>
+    
+    <lastmod>2010-05-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/05/sense-judgement-action/</loc>
+    
+    <lastmod>2010-05-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/04/conditional-captcha-stops-spam-comments/</loc>
+    
+    <lastmod>2010-04-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/04/2010-john-chambers-winner-and-my-comments/</loc>
+    
+    <lastmod>2010-04-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/04/knowledge-and-common-sense/</loc>
+    
+    <lastmod>2010-04-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/04/stat-computation-math-logic/</loc>
+    
+    <lastmod>2010-04-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/04/no-advertisement/</loc>
+    
+    <lastmod>2010-04-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/03/new-r-package-formatr/</loc>
+    
+    <lastmod>2010-03-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/03/feel-charmed-etc/</loc>
+    
+    <lastmod>2010-03-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/02/misc-issues-in-latex-lyx-r-sweave-pgfsweave/</loc>
+    
+    <lastmod>2010-02-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/02/a-big-thank-you-to-linlin-yan/</loc>
+    
+    <lastmod>2010-02-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/01/reproducibility-etc/</loc>
+    
+    <lastmod>2010-01-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/01/how-many-statistics-are-reproducible/</loc>
+    
+    <lastmod>2010-01-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2010/01/unequal-variance-in-t-test/</loc>
+    
+    <lastmod>2010-01-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/12/cos-in-2010/</loc>
+    
+    <lastmod>2009-12-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/12/on-the-edge/</loc>
+    
+    <lastmod>2009-12-29T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/12/statistics-in-their-eyes/</loc>
+    
+    <lastmod>2009-12-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/12/winter-solstice-dumplings/</loc>
+    
+    <lastmod>2009-12-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/12/meeting-r-core-members/</loc>
+    
+    <lastmod>2009-12-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/12/snow-in-ames-and-2nd-chinese-r-conference/</loc>
+    
+    <lastmod>2009-12-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/11/common-sense-in-english-writing/</loc>
+    
+    <lastmod>2009-11-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/10/50000-revisions-committed-to-r/</loc>
+    
+    <lastmod>2009-10-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/10/website-exam-mooncake-rib-etc/</loc>
+    
+    <lastmod>2009-10-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/09/september-life-in-ames/</loc>
+    
+    <lastmod>2009-09-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/08/trace-in-summer/</loc>
+    
+    <lastmod>2009-08-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/06/how-to-build-a-website-as-a-dummy/</loc>
+    
+    <lastmod>2009-06-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/06/200-megabytes-free-ftp-account/</loc>
+    
+    <lastmod>2009-06-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/06/so-much-water-in-their-brain/</loc>
+    
+    <lastmod>2009-06-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/06/creating-tag-cloud-using-r-and-flash-javascript/</loc>
+    
+    <lastmod>2009-06-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/06/from-points-to-curves/</loc>
+    
+    <lastmod>2009-06-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/1st-volume-the-r-journal-and-1st-chinese-r-conference/</loc>
+    
+    <lastmod>2009-05-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/visualize-simple-data-with-google-chart-api/</loc>
+    
+    <lastmod>2009-05-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/php-301-redirect-from-bo-blog-to-wordpress/</loc>
+    
+    <lastmod>2009-05-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/mysql-database-manipulation-notes/</loc>
+    
+    <lastmod>2009-05-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/rare-event-rarely-happens/</loc>
+    
+    <lastmod>2009-05-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/blank-long-post-in-wordpress-and-shortcode/</loc>
+    
+    <lastmod>2009-05-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/turning-to-wordpress/</loc>
+    
+    <lastmod>2009-05-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/email-and-brush/</loc>
+    
+    <lastmod>2009-05-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/heros-in-my-school/</loc>
+    
+    <lastmod>2009-05-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/05/internship-and-job/</loc>
+    
+    <lastmod>2009-05-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/bad-liars-and-statitistics/</loc>
+    
+    <lastmod>2009-04-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/won-john-chambers-award/</loc>
+    
+    <lastmod>2009-04-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/complicated-cos-forum/</loc>
+    
+    <lastmod>2009-04-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/tanzhe-temple-destiny-and-bayesian-statisitcs/</loc>
+    
+    <lastmod>2009-04-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/frequency-of-email-addresses/</loc>
+    
+    <lastmod>2009-04-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/bitterness-from-latex-to-word/</loc>
+    
+    <lastmod>2009-04-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/argue-with-pigs/</loc>
+    
+    <lastmod>2009-04-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/capable-manager-in-cos/</loc>
+    
+    <lastmod>2009-04-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/gmail-spam-filter-not-harmonious/</loc>
+    
+    <lastmod>2009-04-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/find-out-the-black-pig/</loc>
+    
+    <lastmod>2009-04-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/04/how-and-what-to-teach-in-statistics/</loc>
+    
+    <lastmod>2009-04-01T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/standard-photo-of-obama/</loc>
+    
+    <lastmod>2009-03-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/hadley-reviews-a-first-course-in-statistical-programming-with-r/</loc>
+    
+    <lastmod>2009-03-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/dont-wrestle-with-pigs/</loc>
+    
+    <lastmod>2009-03-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/growing/</loc>
+    
+    <lastmod>2009-03-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/1st-chinese-r-conference-report/</loc>
+    
+    <lastmod>2009-03-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/amazing-sheep/</loc>
+    
+    <lastmod>2009-03-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/north-arrow-in-r/</loc>
+    
+    <lastmod>2009-03-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/who-laughs-to-last/</loc>
+    
+    <lastmod>2009-03-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/smart-trick-to-tidy-r-source/</loc>
+    
+    <lastmod>2009-03-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/r-in-his-eyes/</loc>
+    
+    <lastmod>2009-03-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/lyx-and-sweave/</loc>
+    
+    <lastmod>2009-03-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/discretize-data-to-lose-information/</loc>
+    
+    <lastmod>2009-03-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/no-question-about-structural-equation-models/</loc>
+    
+    <lastmod>2009-03-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/financial-crisis-and-copula/</loc>
+    
+    <lastmod>2009-03-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/feeling-bad/</loc>
+    
+    <lastmod>2009-03-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/cartogram-as-special-maps/</loc>
+    
+    <lastmod>2009-03-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/03/blind-faith-in-structural-equation-models/</loc>
+    
+    <lastmod>2009-03-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/test-statistical-distributions/</loc>
+    
+    <lastmod>2009-02-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/introduction-to-john-chambers-software-award/</loc>
+    
+    <lastmod>2009-02-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/ecological-simulation-with-r/</loc>
+    
+    <lastmod>2009-02-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/self-management/</loc>
+    
+    <lastmod>2009-02-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/gaussian-distribution-and-statistical-dogmatism/</loc>
+    
+    <lastmod>2009-02-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/fortune-15-silly-users/</loc>
+    
+    <lastmod>2009-02-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/how-to-raise-questions/</loc>
+    
+    <lastmod>2009-02-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/set-your-email-sender-infomation/</loc>
+    
+    <lastmod>2009-02-21T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/to-zoom-and-pan-r-graphs/</loc>
+    
+    <lastmod>2009-02-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/processing-and-data-visualization/</loc>
+    
+    <lastmod>2009-02-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/origin-of-pie-chart/</loc>
+    
+    <lastmod>2009-02-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/alpha-shape-and-k-means-clustering/</loc>
+    
+    <lastmod>2009-02-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/cumsum-of-normal-var-and-uniform-var/</loc>
+    
+    <lastmod>2009-02-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/02/communism-in-r-community/</loc>
+    
+    <lastmod>2009-02-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/interesting-r-fortunes/</loc>
+    
+    <lastmod>2009-01-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/from-problem-to-theoretical-base/</loc>
+    
+    <lastmod>2009-01-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/bell-shaped-curve-and-density-estimation/</loc>
+    
+    <lastmod>2009-01-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/paper-review-in-8-months/</loc>
+    
+    <lastmod>2009-01-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/contact-information-in-email/</loc>
+    
+    <lastmod>2009-01-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/image-location-in-webpages/</loc>
+    
+    <lastmod>2009-01-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/html-jokes-in-pictures/</loc>
+    
+    <lastmod>2009-01-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/special-usage-of-spoon/</loc>
+    
+    <lastmod>2009-01-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/fantastic-3d-animation-using-r/</loc>
+    
+    <lastmod>2009-01-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2009/01/download-statistical-software/</loc>
+    
+    <lastmod>2009-01-01T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/happy-new-year-2009/</loc>
+    
+    <lastmod>2008-12-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/how-to-cure-aphtha/</loc>
+    
+    <lastmod>2008-12-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/christmas-and-animation-package/</loc>
+    
+    <lastmod>2008-12-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/speed-of-computing-square-root/</loc>
+    
+    <lastmod>2008-12-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/after-the-1st-chinese-r-conference/</loc>
+    
+    <lastmod>2008-12-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/1st-day-of-1st-chinese-r-conference/</loc>
+    
+    <lastmod>2008-12-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/counting-people/</loc>
+    
+    <lastmod>2008-12-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/come-on-boys-and-girls/</loc>
+    
+    <lastmod>2008-12-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/catching-train-with-r/</loc>
+    
+    <lastmod>2008-12-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/insightful-aquired-by-tibco/</loc>
+    
+    <lastmod>2008-12-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/svgannotation-from-r-graphics-to-svg/</loc>
+    
+    <lastmod>2008-12-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/freezing-cold-winter-coming/</loc>
+    
+    <lastmod>2008-12-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/two-excellent-boys/</loc>
+    
+    <lastmod>2008-12-01T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/12/explore-scatterplot-with-lowess/</loc>
+    
+    <lastmod>2008-12-01T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/never-use-r-before-understanding-theories/</loc>
+    
+    <lastmod>2008-11-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/never-grow-old/</loc>
+    
+    <lastmod>2008-11-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/back-from-r-training-course/</loc>
+    
+    <lastmod>2008-11-21T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/report-from-deep-mountains/</loc>
+    
+    <lastmod>2008-11-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/why-use-multiple-regression/</loc>
+    
+    <lastmod>2008-11-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/going-to-australia/</loc>
+    
+    <lastmod>2008-11-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/autumn-trip/</loc>
+    
+    <lastmod>2008-11-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/golden-rules-in-r-programming/</loc>
+    
+    <lastmod>2008-11-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/brownian-motion-with-google-vis-api/</loc>
+    
+    <lastmod>2008-11-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/bayesian-and-frequentist-talk-from-george-cassella/</loc>
+    
+    <lastmod>2008-11-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/11/habits-of-effective-manager/</loc>
+    
+    <lastmod>2008-11-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/violin-plot-to-show-density/</loc>
+    
+    <lastmod>2008-10-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/self-torture/</loc>
+    
+    <lastmod>2008-10-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/reason-of-error-in-rgtk2-and-cairodevice/</loc>
+    
+    <lastmod>2008-10-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/wrongly-written-characters/</loc>
+    
+    <lastmod>2008-10-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/email-format/</loc>
+    
+    <lastmod>2008-10-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/continuous-human-world-and-discrete-computer-world/</loc>
+    
+    <lastmod>2008-10-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/demonstrate-geometric-growth-in-graphics/</loc>
+    
+    <lastmod>2008-10-29T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/birthday-present-to-felix-andrews/</loc>
+    
+    <lastmod>2008-10-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/gre-finished/</loc>
+    
+    <lastmod>2008-10-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/i-hate-gre/</loc>
+    
+    <lastmod>2008-10-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/perfect-support-of-chinese-in-r-280/</loc>
+    
+    <lastmod>2008-10-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/useless-aggregated-data/</loc>
+    
+    <lastmod>2008-10-21T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/least-median-of-squares/</loc>
+    
+    <lastmod>2008-10-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/iplots-package-for-dynamic-graphics/</loc>
+    
+    <lastmod>2008-10-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/flare-to-produce-interactive-flash/</loc>
+    
+    <lastmod>2008-10-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/java-is-better-than-r-in-animation/</loc>
+    
+    <lastmod>2008-10-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/jacksons-rules-of-optimization/</loc>
+    
+    <lastmod>2008-10-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/historical-demo-of-pollen-data/</loc>
+    
+    <lastmod>2008-10-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/highlighting-points-in-r/</loc>
+    
+    <lastmod>2008-10-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/inviting-r-core-members/</loc>
+    
+    <lastmod>2008-10-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/open-files-with-hyperlinks-in-pdf/</loc>
+    
+    <lastmod>2008-10-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/avoid-label-overlap-pointlabel-in-maptools/</loc>
+    
+    <lastmod>2008-10-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/rgl-medal-of-valor/</loc>
+    
+    <lastmod>2008-10-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/two-loops/</loc>
+    
+    <lastmod>2008-10-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/why-avoid-excel-in-statistics/</loc>
+    
+    <lastmod>2008-10-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/china-map-and-city-locations-with-r/</loc>
+    
+    <lastmod>2008-10-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/sexy-r-graphics/</loc>
+    
+    <lastmod>2008-10-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/understanding-numbers-in-computer/</loc>
+    
+    <lastmod>2008-10-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/10/cross-domain-to-submit-form/</loc>
+    
+    <lastmod>2008-10-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/help-me-submit-a-form-to-cgi/</loc>
+    
+    <lastmod>2008-09-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/animation-in-classes/</loc>
+    
+    <lastmod>2008-09-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/principle-component-regression-and-partial-least-square-regression/</loc>
+    
+    <lastmod>2008-09-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/inverse-empirical-cumulative-distribution/</loc>
+    
+    <lastmod>2008-09-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/introduction-to-bootstrap-and-permutation-test/</loc>
+    
+    <lastmod>2008-09-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/books-on-spatial-statistics/</loc>
+    
+    <lastmod>2008-09-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/manipulate-google-docs-with-r/</loc>
+    
+    <lastmod>2008-09-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/multivariate-descriptive-statistics/</loc>
+    
+    <lastmod>2008-09-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/eyeball-test-fake-coin/</loc>
+    
+    <lastmod>2008-09-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/open-courses-in-the-web/</loc>
+    
+    <lastmod>2008-09-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/multiple-outliers-detection/</loc>
+    
+    <lastmod>2008-09-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/demo-of-interaction-in-regression/</loc>
+    
+    <lastmod>2008-09-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/academic-circle-and-background-of-stat-graphics/</loc>
+    
+    <lastmod>2008-09-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/tiger-is-not-hello-kitty/</loc>
+    
+    <lastmod>2008-09-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/people-meet-everywhere/</loc>
+    
+    <lastmod>2008-09-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/why-avoid-excel-to-do-calculation/</loc>
+    
+    <lastmod>2008-09-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/how-to-write-her-name/</loc>
+    
+    <lastmod>2008-09-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/dont-understand-why-you-dont-understand/</loc>
+    
+    <lastmod>2008-09-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/ridiculous-to-use-pls-to-solve-sem/</loc>
+    
+    <lastmod>2008-09-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/dead-mosquito/</loc>
+    
+    <lastmod>2008-09-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/09/whats-special-in-this-data/</loc>
+    
+    <lastmod>2008-09-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/in-the-end-of-august/</loc>
+    
+    <lastmod>2008-08-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/an-introduction-to-processing/</loc>
+    
+    <lastmod>2008-08-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/reply-address-of-email/</loc>
+    
+    <lastmod>2008-08-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/data-import-and-export-approach/</loc>
+    
+    <lastmod>2008-08-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/photos-from-germany/</loc>
+    
+    <lastmod>2008-08-21T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-9-and-10/</loc>
+    
+    <lastmod>2008-08-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-7-and-8/</loc>
+    
+    <lastmod>2008-08-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-6/</loc>
+    
+    <lastmod>2008-08-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-5/</loc>
+    
+    <lastmod>2008-08-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-4/</loc>
+    
+    <lastmod>2008-08-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-3/</loc>
+    
+    <lastmod>2008-08-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-2/</loc>
+    
+    <lastmod>2008-08-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/germany-trip-1/</loc>
+    
+    <lastmod>2008-08-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/missing-value-and-zero-in-excel/</loc>
+    
+    <lastmod>2008-08-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/econometrics-and-r/</loc>
+    
+    <lastmod>2008-08-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/im-a-busy-guy/</loc>
+    
+    <lastmod>2008-08-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/08/back-again/</loc>
+    
+    <lastmod>2008-08-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/07/examine-the-literature-before-writing-paper/</loc>
+    
+    <lastmod>2008-07-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/07/rweb-for-interactive-computation-and-graphics/</loc>
+    
+    <lastmod>2008-07-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/07/alpha-equals-to-0/</loc>
+    
+    <lastmod>2008-07-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/07/programmer-and-svn/</loc>
+    
+    <lastmod>2008-07-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/07/bad-luck/</loc>
+    
+    <lastmod>2008-07-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/back-from-bremen/</loc>
+    
+    <lastmod>2008-06-29T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/a-blog-post-in-bremen/</loc>
+    
+    <lastmod>2008-06-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/follow-your-heart/</loc>
+    
+    <lastmod>2008-06-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/serendipity-from-bill-gates/</loc>
+    
+    <lastmod>2008-06-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/small-small-world/</loc>
+    
+    <lastmod>2008-06-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/ask-people-actively/</loc>
+    
+    <lastmod>2008-06-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/love-life-love-ibt/</loc>
+    
+    <lastmod>2008-06-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/no-matter-where-you-go-there-you-are/</loc>
+    
+    <lastmod>2008-06-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/importance-of-contrast-group/</loc>
+    
+    <lastmod>2008-06-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/glivenko-cantelli-theorem-and-my-mouse/</loc>
+    
+    <lastmod>2008-06-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/ever-changing-world/</loc>
+    
+    <lastmod>2008-06-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/inspiration-from-statsci/</loc>
+    
+    <lastmod>2008-06-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/animation-1-0-0-updated/</loc>
+    
+    <lastmod>2008-06-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/forget-breakfast-again/</loc>
+    
+    <lastmod>2008-06-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/escape-operator-from-r-to-js-to-html/</loc>
+    
+    <lastmod>2008-06-07T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/latex-plugin-for-dokuwiki/</loc>
+    
+    <lastmod>2008-06-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/animation-plugin-for-dokuwiki/</loc>
+    
+    <lastmod>2008-06-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/06/aniwiki-as-gallery-of-statistical-animations/</loc>
+    
+    <lastmod>2008-06-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/back-from-toefl/</loc>
+    
+    <lastmod>2008-05-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/pray-for-toefl/</loc>
+    
+    <lastmod>2008-05-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/chameleon/</loc>
+    
+    <lastmod>2008-05-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/tired/</loc>
+    
+    <lastmod>2008-05-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/spoon-and-fork-manufacturer/</loc>
+    
+    <lastmod>2008-05-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/earthquake/</loc>
+    
+    <lastmod>2008-05-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/i-do-and-i-understand/</loc>
+    
+    <lastmod>2008-05-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/beijing-statistical-yearbook-2001-2004/</loc>
+    
+    <lastmod>2008-05-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/05/no-more-consultation-about-structural-equation-models/</loc>
+    
+    <lastmod>2008-05-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/04/commercial-visa-to-germany/</loc>
+    
+    <lastmod>2008-04-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/04/22-km-per-hour/</loc>
+    
+    <lastmod>2008-04-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/04/too-tired/</loc>
+    
+    <lastmod>2008-04-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/04/phoenix/</loc>
+    
+    <lastmod>2008-04-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/03/bitter-life/</loc>
+    
+    <lastmod>2008-03-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/going-home/</loc>
+    
+    <lastmod>2008-01-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/speak-carefully/</loc>
+    
+    <lastmod>2008-01-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/using-r-for-data-analysis-and-graphics/</loc>
+    
+    <lastmod>2008-01-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/what-does-nb-mean/</loc>
+    
+    <lastmod>2008-01-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/genetic-algorithm/</loc>
+    
+    <lastmod>2008-01-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/why-i-hate-structural-equation-models/</loc>
+    
+    <lastmod>2008-01-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/statistics-cannot-draw-conclusions/</loc>
+    
+    <lastmod>2008-01-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2008/01/bad-sleep/</loc>
+    
+    <lastmod>2008-01-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/two-thousand-and-eight/</loc>
+    
+    <lastmod>2007-12-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/befunky-to-cartoonize-pictures/</loc>
+    
+    <lastmod>2007-12-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/when-statistics-makes-no-sense/</loc>
+    
+    <lastmod>2007-12-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/remember-pronunciation-by-listening/</loc>
+    
+    <lastmod>2007-12-27T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/chirstmas-eve/</loc>
+    
+    <lastmod>2007-12-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/not-all-systems-support-png/</loc>
+    
+    <lastmod>2007-12-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/i-hate-microsoft-office-word/</loc>
+    
+    <lastmod>2007-12-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/r-package-for-visual-illusions/</loc>
+    
+    <lastmod>2007-12-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/functional-data-analysis/</loc>
+    
+    <lastmod>2007-12-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/finished-reading-lady-tasting-tea/</loc>
+    
+    <lastmod>2007-12-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/telephone-jokes/</loc>
+    
+    <lastmod>2007-12-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/warrior-king/</loc>
+    
+    <lastmod>2007-12-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/logistic-regression-for-grouped-data/</loc>
+    
+    <lastmod>2007-12-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/moonlight-box/</loc>
+    
+    <lastmod>2007-12-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/pig-in-the-lane/</loc>
+    
+    <lastmod>2007-12-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/dragon-warrior/</loc>
+    
+    <lastmod>2007-12-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/stories-in-the-lady-tasting-tea/</loc>
+    
+    <lastmod>2007-12-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/admin-is-not-official/</loc>
+    
+    <lastmod>2007-12-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/12/flash-game-bloxorz/</loc>
+    
+    <lastmod>2007-12-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/damn-missing-values/</loc>
+    
+    <lastmod>2007-11-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/see-live-gurus-in-statistics/</loc>
+    
+    <lastmod>2007-11-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/all-opinions-are-biased/</loc>
+    
+    <lastmod>2007-11-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/survival-ensembles/</loc>
+    
+    <lastmod>2007-11-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/friedrich-leisch-reviews-the-r-book/</loc>
+    
+    <lastmod>2007-11-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/ubuntu-server/</loc>
+    
+    <lastmod>2007-11-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/server-arrived/</loc>
+    
+    <lastmod>2007-11-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/500-pages-over-a-night/</loc>
+    
+    <lastmod>2007-11-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/im-too-hungry/</loc>
+    
+    <lastmod>2007-11-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/use-smoothing-from-2d-to-3d/</loc>
+    
+    <lastmod>2007-11-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/type-iii-error/</loc>
+    
+    <lastmod>2007-11-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/todo-list-of-the-animation-package/</loc>
+    
+    <lastmod>2007-11-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/1st-version-of-animation-package/</loc>
+    
+    <lastmod>2007-11-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/course-progress-and-horizon/</loc>
+    
+    <lastmod>2007-11-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/sir-arthur-conan-doyle-and-statistical-modelling/</loc>
+    
+    <lastmod>2007-11-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/awesome-scalable-vector-graphics/</loc>
+    
+    <lastmod>2007-11-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/steps-to-write-r-packages/</loc>
+    
+    <lastmod>2007-11-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/11/back-from-cueb-talk/</loc>
+    
+    <lastmod>2007-11-01T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/learning-linux/</loc>
+    
+    <lastmod>2007-10-31T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/heros-in-cos/</loc>
+    
+    <lastmod>2007-10-30T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/not-early/</loc>
+    
+    <lastmod>2007-10-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/difficulty-in-writing/</loc>
+    
+    <lastmod>2007-10-26T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/my-life-as-a-paparazzo/</loc>
+    
+    <lastmod>2007-10-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/feet-stuck/</loc>
+    
+    <lastmod>2007-10-23T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/early-preparation-for-going-abroad/</loc>
+    
+    <lastmod>2007-10-22T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/email-email/</loc>
+    
+    <lastmod>2007-10-20T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/rgui-translation/</loc>
+    
+    <lastmod>2007-10-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/poor-tech-in-people-univ-of-china/</loc>
+    
+    <lastmod>2007-10-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/17-big-conference/</loc>
+    
+    <lastmod>2007-10-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/ou-peng-birthday/</loc>
+    
+    <lastmod>2007-10-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/i-hate-microsoft-internet-explorer/</loc>
+    
+    <lastmod>2007-10-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/dont-call-url-with-javascript/</loc>
+    
+    <lastmod>2007-10-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/bare-feet-on-campus/</loc>
+    
+    <lastmod>2007-10-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/constant-luck/</loc>
+    
+    <lastmod>2007-10-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/notes-on-firefox-ie-and-javascript/</loc>
+    
+    <lastmod>2007-10-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/cat-police-and-flower/</loc>
+    
+    <lastmod>2007-10-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/explain-statistics-with-animations/</loc>
+    
+    <lastmod>2007-10-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/spring-in-autumn/</loc>
+    
+    <lastmod>2007-10-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/life-in-bike-box/</loc>
+    
+    <lastmod>2007-10-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/degree-of-freedom/</loc>
+    
+    <lastmod>2007-10-03T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/10/rphp-online-r-system/</loc>
+    
+    <lastmod>2007-10-01T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/dont-write-too-long-programs/</loc>
+    
+    <lastmod>2007-09-29T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/beautiful-country-and-central-country/</loc>
+    
+    <lastmod>2007-09-28T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/mid-autumn-day/</loc>
+    
+    <lastmod>2007-09-25T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/error-in-kingsoft-ciba-2007/</loc>
+    
+    <lastmod>2007-09-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/basics-of-programming/</loc>
+    
+    <lastmod>2007-09-24T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/web-server-changed/</loc>
+    
+    <lastmod>2007-09-21T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/human-perceptron/</loc>
+    
+    <lastmod>2007-09-18T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/human-music-player/</loc>
+    
+    <lastmod>2007-09-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/two-animals/</loc>
+    
+    <lastmod>2007-09-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/china-map-at-province-level/</loc>
+    
+    <lastmod>2007-09-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/sms-as-a-probability-problem/</loc>
+    
+    <lastmod>2007-09-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/search-for-unread-emails/</loc>
+    
+    <lastmod>2007-09-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/noisy-9-11/</loc>
+    
+    <lastmod>2007-09-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/cos-ad-spammer/</loc>
+    
+    <lastmod>2007-09-11T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/a-fake-teachers-holiday/</loc>
+    
+    <lastmod>2007-09-10T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/strange-statistical-significance/</loc>
+    
+    <lastmod>2007-09-09T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/welcome-new-students/</loc>
+    
+    <lastmod>2007-09-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/highslide-and-lightbox/</loc>
+    
+    <lastmod>2007-09-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/notes-on-firefox-ie-and-fieldset/</loc>
+    
+    <lastmod>2007-09-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/expensive-pork/</loc>
+    
+    <lastmod>2007-09-06T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/new-term-begins/</loc>
+    
+    <lastmod>2007-09-05T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/writing-r-packages/</loc>
+    
+    <lastmod>2007-09-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/dream-of-strong-country/</loc>
+    
+    <lastmod>2007-09-04T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/riding-and-searching-for-donkey/</loc>
+    
+    <lastmod>2007-09-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/09/push-up/</loc>
+    
+    <lastmod>2007-09-02T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/r2html-package/</loc>
+    
+    <lastmod>2007-08-29T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/cut-hair/</loc>
+    
+    <lastmod>2007-08-29T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/send-sms-to-myself/</loc>
+    
+    <lastmod>2007-08-19T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/ride-in-the-rain-on-8-16/</loc>
+    
+    <lastmod>2007-08-16T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/hotmail-and-junk-emails/</loc>
+    
+    <lastmod>2007-08-15T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/rename-mysql-database/</loc>
+    
+    <lastmod>2007-08-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/extract-a-column-in-r-data-frame/</loc>
+    
+    <lastmod>2007-08-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/deal-with-netflix-prize-data-with-r/</loc>
+    
+    <lastmod>2007-08-14T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/my-location-in-google-maps/</loc>
+    
+    <lastmod>2007-08-13T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/prevent-lower-case-tags-bo-blog/</loc>
+    
+    <lastmod>2007-08-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/deal-with-large-data-using-r/</loc>
+    
+    <lastmod>2007-08-12T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2007/08/remote-connection-under-windows/</loc>
+    
+    <lastmod>2007-08-08T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yihui.name/cn/2005/08/ride-to-tianjin-in-16-hours/</loc>
+    
+    <lastmod>2005-08-17T00:00:00+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
   
   
   
