@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://geeklu.com
-author: 卢克
+url: http://laoguo1986.github.com
+author:  老郭
 pygments: true
 paginate: 16
