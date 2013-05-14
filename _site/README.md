@@ -1,2 +1,2 @@
-- My Blog based kejinlu.github.com  
-Thanks for Luke
+- My Blog based https://github.com/ellochen/ellochen.github.com.git 
+Thanks for Luke and ellochen
