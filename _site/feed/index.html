@@ -7,85 +7,96 @@
     <title>老郭</title>
     <link href="http://laoguo1986.github.com/feed/" rel="self" />
     <link href="http://ellochen.github.com" />
-    <lastBuildDate>2013-05-14T13:58:52+08:00</lastBuildDate>
+    <lastBuildDate>2013-05-21T16:17:42+08:00</lastBuildDate>
     <webMaster>silver.accc@gmail.com</webMaster>
     
     <item>
-      <title>搭建写作环境</title>
-      <link href="http://laoguo1986.github.com/2013/05/%E5%86%99%E4%BD%9C%E7%8E%AF%E5%A2%83/"/>
-      <pubDate>2013-05-14T00:00:00+08:00</pubDate>
+      <title>幻灯片制作</title>
+      <link href="http://laoguo1986.github.com/2013/05/vim+%2B+markdown+%2B+beamer+%2B+pandoc/"/>
+      <pubDate>2013-05-21T00:00:00+08:00</pubDate>
       <author>老郭</author>
-      <guid>http://laoguo1986.github.com/2013/05/写作环境</guid>
-      <content:encoded><![CDATA[<h2>缘起</h2>
+      <guid>http://laoguo1986.github.com/2013/05/vim + markdown + beamer + pandoc</guid>
+      <content:encoded><![CDATA[<p>md模板</p>
 
-<p>以前看到大神<a href="http://yihui.name/">yihui xie</a>的博客时，简直惊为天人。</p>
+<blockquote><p>% File Name
+% Author Name
+% \today
+~~~~~~~</p>
 
-<blockquote><p>Oh, my god!</p></blockquote>
+<h2>Outline</h2>
 
-<p>知道有一天，读到<a href="http://site.douban.com/196781/widget/notes/12161495/note/264946576/">写作环境搭建(git+github+markdown+jekyll)</a>,才发现：</p>
+<p>\tableofcontents</p></blockquote>
 
-<blockquote><p>原来如此！</p></blockquote>
+<h1>Section 1</h1>
 
-<h2>参考</h2>
-
-<ul>
-<li>git/github相关:
-
-<ul>
-<li><a href="http://www.yangzhiping.com/tech/git.html">阳志平：Git与Github入门资料</a></li>
-<li><a href="http://www.yangzhiping.com/tech/github.html">阳志平：如何高效利用GitHub</a></li>
-</ul>
-</li>
-<li>markdown相关：
+<h2>First Slide</h2>
 
 <ul>
-<li><a href="http://wowubuntu.com/markdown/">Markdown 语法说明 (简体中文版)</a></li>
-<li><a href="http://www.ituring.com.cn/article/23">图灵社区 : 怎样使用Markdown</a></li>
-<li><a href="http://www.yangzhiping.com/tech/r-markdown-knitr.html">阳志平：Markdown写作浅谈</a></li>
-</ul>
-</li>
-<li>jekyall相关：
+<li><p>Level 1-1 <strong>strong emphasis</strong> or <em>emphasis</em></p>
 
 <ul>
-<li><a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html">搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门</a></li>
-</ul>
-</li>
-<li>综述：
+<li><p>Level 2-1</p></li>
+<li><p>Level 2-2 Math $B(t)\sim Poisson(\lambda_t)$</p>
 
 <ul>
-<li><a href="http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/">Github Pages极简教程 - 雁起平沙的网络日志</a></li>
-<li><a href="http://blog.skydark.info/programming/2012/03/23/play-with-jekyll/">Play with Jekyll</a></li>
-</ul>
-</li>
-<li>视频教程
-
-<ul>
-<li>强力推荐<a href="http://happycasts.net/">happycast</a>,没有此视频，git和vim会很遥远！</li>
+<li>Level 3-1</li>
+<li>Level 3-2</li>
 </ul>
 </li>
 </ul>
+</li>
+<li><p>Level 1-2</p></li>
+</ul>
 
 
-<h2>特别感谢：</h2>
+<h2>Second Slide: Figure and footnote</h2>
 
-<p>[写作环境搭建(git+github+markdown+jekyll)](http://site.douban.com/196781/widget/notes/12161495/note/264946576/</p>
+<ul>
+<li>Insert Figures in this slide:</li>
+</ul>
 
-<p>菜鸟也疯狂，本博客正是fork了ellochen的博客，在此表示特别的感谢！</p>
 
-<p>tip:千万记得另存为UTF8,不然会乱码。</p>
+<p>\centerline{\includegraphics[height=1.5in]{fig.png}}</p>
+
+<p>Here is a footnote reference,<a href="Here">^1</a> and another.<a href="Here's">^longnote</a></p>
+
+<h2>Third Slide: tables</h2>
+
+<p>  Right     Left     Center     Default</p>
+
+<hr />
+
+<pre><code>  12     12        12            12
+123     123     123           123
+    1     1           1             1
+</code></pre>
+
+<p>Table:  Demonstration of simple table syntax.</p>
+
+<h1>Section 2</h1>
+
+<h2>Fouth Slide: Two column</h2>
+
+<p>\begin{columns}[c]
+\column{1.5in}
+Practical \TeX\ 2005\
+Practical \TeX\ 2005\
+Practical \TeX\ 2005</p>
+
+<p>\column{1.5in}
+\framebox{\includegraphics[width=1.5in]{fig.png}}
+\end{columns}
+~~~~~~~</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>第一篇技术博</title>
+      <title>markdown笔记</title>
       <link href="http://laoguo1986.github.com/2013/05/markdown/"/>
       <pubDate>2013-05-14T00:00:00+08:00</pubDate>
       <author>老郭</author>
       <guid>http://laoguo1986.github.com/2013/05/markdown</guid>
-      <content:encoded><![CDATA[<h1>这是我的第一篇博客！</h1>
-
-<p>中文!
-hello,world!</p>
+      <content:encoded><![CDATA[<h1>基本语法</h1>
 ]]></content:encoded>
     </item>
     
